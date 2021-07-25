@@ -1,0 +1,27 @@
+{
+  "name": "caddy-clock",
+  "version": "1.0.0",
+  "description": "## 使用 docker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start2": "http-server -c-1 -p 8999"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamitom/caddy-clock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamitom/caddy-clock/issues"
+  },
+  "homepage": "https://github.com/kamitom/caddy-clock#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}

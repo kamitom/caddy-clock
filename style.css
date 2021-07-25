@@ -1,5 +1,6 @@
 body {
-    background: black;
+    /* background: black; */
+    background: darkolivegreen;
 }
 
 h1 {
@@ -11,6 +12,16 @@ h1 {
     font-size: 20px;
     font-family: Orbitron;
     letter-spacing: 7px;
+}
+
+.ipinfo {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #17D4FE;
+    font-size: 40px;
+    font-family: Orbitron;
 }
 
 .clock {
