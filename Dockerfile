@@ -1,8 +1,8 @@
 
 # Base image
-FROM caddy:latest
+FROM caddy:2.4.3
 # AUTHOR
-LABEL AUTHOR = "TOM" \
-  EMAIL = "TOM@TEST.ME"
+LABEL AUTHOR = "kamitom" \
+  EMAIL = "lokilaufeeson@gmail.com"
 # Bundle app source
 COPY . /usr/share/caddy/
