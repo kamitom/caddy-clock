@@ -5,7 +5,7 @@ body {
 
 h1 {
     position: absolute;
-    top: 20%;
+    top: 15%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
     color: #17D4FE;
@@ -16,7 +16,7 @@ h1 {
 
 .ipinfo {
     position: absolute;
-    top: 35%;
+    top: 30%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
     color: #17D4FE;
@@ -24,9 +24,19 @@ h1 {
     font-family: Orbitron;
 }
 
+.list {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #17D4FE;
+    font-size: 20px;
+    font-family: Orbitron;
+}
+
 .clock {
     position: absolute;
-    top: 50%;
+    top: 55%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
     color: #17D4FE;

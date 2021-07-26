@@ -9,7 +9,7 @@
 > docker run -d --name caddy-app -p 8001:80 tom4dock/caddy-clock:1.1 
 
 - feat: 新增/修改功能 (feature)。
-- fix: 修補 bug (bug fix)。
+- fix: (bug fix)。
 - docs: 文件 (documentation)。
 - style: 格式 (不影響程式碼運行的變動 white-space, formatting, missing semi colons, etc)。
 - refactor: 重構 (既不是新增功能，也不是修補 bug 的程式碼變動)。

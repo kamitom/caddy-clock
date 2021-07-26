@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start2": "http-server -c-1 -p 8999"
+    "start2": "http-server -c-1 -p 8999",
+    "devrun": "nodemon server.js"
   },
   "repository": {
     "type": "git",
